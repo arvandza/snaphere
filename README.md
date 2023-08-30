@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 - UNSPLASH [API](https://api.unplash.com)
 
 ## Yakaligakuy Team:
-* NUR FADHILLA						    [GitHub](https://github.com/dhilla121201)
-* DINDA PUSPA APRILIA					[GitHub](https://github.com/dindapuspaaprilia)
-* AFIF ULUL ALBAB						[GitHub](https://github.com/afifululalbab)
-* MUHAMMAD ARVANDA FILDZA ALIFFA PUTRA	[GitHub](https://github.com/arvandza)
+* NUR FADHILLAH RAMADHANI,						    [GitHub](https://github.com/dhilla121201)
+* DINDA PUSPA APRILIA,					          [GitHub](https://github.com/dindapuspaaprilia)
+* AFIF ULUL ALBAB,						            [GitHub](https://github.com/afifululalbab)
+* MUHAMMAD ARVANDA FILDZA ALIFFA PUTRA,	[GitHub](https://github.com/arvandza)
