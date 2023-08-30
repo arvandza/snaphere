@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1087445092000",
+    "project_id": "snaphere-d5518",
+    "storage_bucket": "snaphere-d5518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087445092000:android:76e0e72fcb559831ba2bc5",
+        "android_client_info": {
+          "package_name": "com.snaphere.snaphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087445092000-c2bg0sc3fpc4bqohu37tp7vdj2e8728m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcNVYAxEZiI_9IhPT-AuPFfYwSY8Zl7HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087445092000-c2bg0sc3fpc4bqohu37tp7vdj2e8728m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087445092000-l012t3k354gbml839u470f8jd99bkkvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snaphere.snaphere"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
